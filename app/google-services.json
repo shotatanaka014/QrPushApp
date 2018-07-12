@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "912224554555",
+    "firebase_url": "https://pushapp-41d69.firebaseio.com",
+    "project_id": "pushapp-41d69",
+    "storage_bucket": "pushapp-41d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912224554555:android:649d60e10bc78626",
+        "android_client_info": {
+          "package_name": "com.example.shotatanaka.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912224554555-279ru71q95jh4alb4ur58t581i40q6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrxu9PjG0K2V9HI2emrt8OMo8EDJrmHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
